@@ -19,3 +19,5 @@ They can also Share Link to Field layout and Export to SVG or JPG.
 <a href="https://github.com/madz42/pbevents-front">frontend</a> | <a href="https://github.com/madz42/pbevents-back">backend</a>
 
 Screenshots: <a href="http://paranoidreptiloid.com/img/pic4.png">Plan</a> - <a href="http://paranoidreptiloid.com/img/pic3.png">Build</a> - <a href="http://paranoidreptiloid.com/img/pic1.png">Browse</a> - <a href="http://paranoidreptiloid.com/img/pic5.png">Share</a>
+
+<img src="http://paranoidreptiloid.com/img/pew_animate.gif" alt="Raycasting Demo"/>

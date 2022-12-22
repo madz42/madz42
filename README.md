@@ -28,3 +28,15 @@ They can also Share Link to Field layout and Export to SVG or JPG.
 Screenshots: <a href="http://paranoidreptiloid.com/img/pic4.png">Plan</a> - <a href="http://paranoidreptiloid.com/img/pic3.png">Build</a> - <a href="http://paranoidreptiloid.com/img/pic1.png">Browse</a> - <a href="http://paranoidreptiloid.com/img/pic5.png">Share</a>
 
 <img src="http://paranoidreptiloid.com/img/pew_animate.gif" alt="Raycasting Demo"/>
+
+## Fun
+
+### Advent of Code 2022
+
+I have discovered an <a href="https://adventofcode.com/2022">Advent Calendar for coders</a>, where every day from 1st to 25th of December they give you new challenge from 2 parts. This is super fun and a great chance to improve skills in coding, algorithms and... optimization.
+
+My current progress:
+
+<img src="http://paranoidreptiloid.com/img/aoc2022.png" alt="Advent of Code 2022"/>
+
+My <a href="https://github.com/madz42/advent2022">GitHub repo</a> with solutions

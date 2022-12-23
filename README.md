@@ -37,6 +37,6 @@ I have discovered an <a href="https://adventofcode.com/2022">Advent Calendar for
 
 My current progress:
 
-<img src="http://paranoidreptiloid.com/img/aoc2022.png" alt="Advent of Code 2022"/>
+<img src="http://paranoidreptiloid.com/img/aoc2022.png#1" alt="Advent of Code 2022"/>
 
 My <a href="https://github.com/madz42/advent2022">GitHub repo</a> with solutions

@@ -35,8 +35,8 @@ Screenshots: <a href="http://paranoidreptiloid.com/img/pic4.png">Plan</a> - <a h
 
 I have discovered an <a href="https://adventofcode.com/2022">Advent Calendar for coders</a>, where every day from 1st to 25th of December they give you new challenge from 2 parts. This is super fun and a great chance to improve skills in coding, algorithms and... optimization.
 
-My current progress:
+My progress by the end of Dec 25th:
 
-<img src="http://paranoidreptiloid.com/img/aoc2022.png#1" alt="Advent of Code 2022"/>
+<img src="http://paranoidreptiloid.com/img/aoc2022.png#2" alt="Advent of Code 2022"/>
 
-My <a href="https://github.com/madz42/advent2022">GitHub repo</a> with solutions
+My <a href="https://github.com/madz42/advent2022">GitHub repo</a> with solutions. Some of them might be still not uploaded, it's because I need to make them look not so ugly first :D

@@ -3,26 +3,31 @@
 My name is Simon and I am a Full Stack JS Developer. I have just graduated from [Codaisseur](http://www.codaisseur.com) Tech Academy and eager to learn more cool stuff.
 
 ## My current stack is:
-![JS badge](https://img.shields.io/badge/JavaScript-badge?color=fff&logo=javascript&style=for-the-badge)
-![TS badge](https://img.shields.io/badge/TypeScript-badge?color=fff&logo=typescript&style=for-the-badge)
-![Python badge](https://img.shields.io/badge/Python-badge?color=fff&logo=python&style=for-the-badge)
+![JS badge](https://img.shields.io/badge/JavaScript-badge?color=F7DF1E&logo=javascript&style=for-the-badge&logoColor=black)
+![TS badge](https://img.shields.io/badge/TypeScript-badge?color=3178C6&logo=typescript&style=for-the-badge&logoColor=white)
 
-![HTML badge](https://img.shields.io/badge/HTML-badge?color=fff&logo=html5&style=for-the-badge)
-![CSS badge](https://img.shields.io/badge/CSS-badge?color=fff&logo=css3&style=for-the-badge&logoColor=blue)
-![MUI badge](https://img.shields.io/badge/Material_UI-badge?color=fff&logo=mui&style=for-the-badge&logoColor=007FFF)
+![HTML badge](https://img.shields.io/badge/HTML-badge?color=E34F26&logo=html5&style=for-the-badge&logoColor=white)
+![CSS badge](https://img.shields.io/badge/CSS-badge?color=1572B6&logo=css3&style=for-the-badge&logoColor=white)
+![MUI badge](https://img.shields.io/badge/Material_UI-badge?color=007FFF&logo=mui&style=for-the-badge&logoColor=white)
 
-![React badge](https://img.shields.io/badge/React-badge?color=fff&logo=react&style=for-the-badge&logoColor=blue)
-![Redux badge](https://img.shields.io/badge/Redux-badge?color=fff&logo=redux&style=for-the-badge&logoColor=purple)
+![React badge](https://img.shields.io/badge/React-badge?color=61DAFB&logo=react&style=for-the-badge&logoColor=black)
+![Redux badge](https://img.shields.io/badge/Redux-badge?color=764ABC&logo=redux&style=for-the-badge&logoColor=white)
+![NextJS badge](https://img.shields.io/badge/Next.js-badge?color=000&logo=nextdotjs&style=for-the-badge&logoColor=white)
 
-![NodeJS badge](https://img.shields.io/badge/Node.JS-badge?color=fff&logo=nodedotjs&style=for-the-badge)
-![Express badge](https://img.shields.io/badge/Express-badge?color=fff&logo=express&style=for-the-badge&logoColor=000)
-![Axios badge](https://img.shields.io/badge/Axios-badge?color=fff&logo=axios&style=for-the-badge&logoColor=000)
+![NodeJS badge](https://img.shields.io/badge/Node.JS-badge?color=339933&logo=nodedotjs&style=for-the-badge&logoColor=white)
+![Express badge](https://img.shields.io/badge/Express-badge?color=000&logo=express&style=for-the-badge&logoColor=white)
+![Axios badge](https://img.shields.io/badge/Axios-badge?color=5A29E4&logo=axios&style=for-the-badge&logoColor=white)
 
-![Git badge](https://img.shields.io/badge/Git-badge?color=fff&logo=git&style=for-the-badge)
-![GitHub badge](https://img.shields.io/badge/GitHub-badge?color=fff&logo=github&style=for-the-badge&logoColor=000)
+![Git badge](https://img.shields.io/badge/Git-badge?color=F05032&logo=git&style=for-the-badge&logoColor=white)
+![GitHub badge](https://img.shields.io/badge/GitHub-badge?color=181717&logo=github&style=for-the-badge&logoColor=white)
 
-![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-badge?color=fff&logo=postgresql&style=for-the-badge&logoColor=blue)
-![Sequelize badge](https://img.shields.io/badge/Sequelize-badge?color=fff&logo=sequelize&style=for-the-badge)
+![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-badge?color=4169E1&logo=postgresql&style=for-the-badge&logoColor=white)
+![Sequelize badge](https://img.shields.io/badge/Sequelize-badge?color=52B0E7&logo=sequelize&style=for-the-badge&logoColor=white)
+
+### Also interested in:
+![Python badge](https://img.shields.io/badge/Python-badge?color=3776AB&logo=python&style=for-the-badge&logoColor=white)
+![Kotlin badge](https://img.shields.io/badge/Kotlin-badge?color=7F52FF&logo=kotlin&style=for-the-badge&logoColor=white)
+![Go badge](https://img.shields.io/badge/Go-badge?color=00ADD8&logo=go&style=for-the-badge&logoColor=white)
 
 ## Projects
 

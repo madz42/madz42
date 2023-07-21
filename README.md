@@ -20,6 +20,7 @@ My name is Simon and I am a Full Stack JS Developer. I have just graduated from 
 
 ![Git badge](https://img.shields.io/badge/Git-badge?color=F05032&logo=git&style=for-the-badge&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/GitHub-badge?color=181717&logo=github&style=for-the-badge&logoColor=white)
+![Docker badge](https://img.shields.io/badge/Docker-badge?color=2496ED&logo=docker&style=for-the-badge&logoColor=white)
 
 ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-badge?color=4169E1&logo=postgresql&style=for-the-badge&logoColor=white)
 ![Sequelize badge](https://img.shields.io/badge/Sequelize-badge?color=52B0E7&logo=sequelize&style=for-the-badge&logoColor=white)

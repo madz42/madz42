@@ -24,6 +24,7 @@ My name is Simon and I am a Full Stack JS Developer. I have just graduated from 
 
 ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-badge?color=4169E1&logo=postgresql&style=for-the-badge&logoColor=white)
 ![Sequelize badge](https://img.shields.io/badge/Sequelize-badge?color=52B0E7&logo=sequelize&style=for-the-badge&logoColor=white)
+![Prisma badge](https://img.shields.io/badge/Prisma-badge?color=2D3748&logo=prisma&style=for-the-badge&logoColor=white)
 
 ### Also interested in:
 ![Python badge](https://img.shields.io/badge/Python-badge?color=3776AB&logo=python&style=for-the-badge&logoColor=white)

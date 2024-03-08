@@ -1,6 +1,6 @@
 # Hey there
 
-My name is Simon and I am a Full Stack JS Developer. I have just graduated from [Codaisseur](http://www.codaisseur.com) Tech Academy and eager to learn more cool stuff.
+My name is Simon and I am a Full Stack JS Developer. I have finished [Codaisseur](http://www.codaisseur.com) Tech Academy and eager to work on and learn cool stuff.
 
 ## My current stack is:
 ![JS badge](https://img.shields.io/badge/JavaScript-badge?color=F7DF1E&logo=javascript&style=for-the-badge&logoColor=black)
@@ -9,6 +9,7 @@ My name is Simon and I am a Full Stack JS Developer. I have just graduated from 
 ![HTML badge](https://img.shields.io/badge/HTML-badge?color=E34F26&logo=html5&style=for-the-badge&logoColor=white)
 ![CSS badge](https://img.shields.io/badge/CSS-badge?color=1572B6&logo=css3&style=for-the-badge&logoColor=white)
 ![MUI badge](https://img.shields.io/badge/Material_UI-badge?color=007FFF&logo=mui&style=for-the-badge&logoColor=white)
+![P5 badge](https://img.shields.io/badge/P5.JS-badge?color=ED225D&logo=p5.js&style=for-the-badge&logoColor=white)
 
 ![React badge](https://img.shields.io/badge/React-badge?color=61DAFB&logo=react&style=for-the-badge&logoColor=black)
 ![Redux badge](https://img.shields.io/badge/Redux-badge?color=764ABC&logo=redux&style=for-the-badge&logoColor=white)
@@ -47,6 +48,7 @@ They can also Share Link to Field layout and Export to SVG or JPG.
 ![HTML badge](https://img.shields.io/badge/HTML-badge?color=444&logo=html5&style=flat-square&logoColor=orange)
 ![CSS badge](https://img.shields.io/badge/CSS-badge?color=444&logo=css3&style=flat-square&logoColor=blue)
 ![SVG badge](https://img.shields.io/badge/SVG-badge?color=444&logo=svg&style=flat-square)
+![SVG badge](https://img.shields.io/badge/SVG-badge?color=444&logo=svg&style=flat-square)
 
 [BACKEND](https://github.com/madz42/pbevents-back)
 
@@ -63,12 +65,16 @@ Screenshots: [Plan](http://paranoidreptiloid.com/img/pic4.png) - [Build](http://
 
 ## Fun
 
-### Advent of Code 2022
+### Advent of Code 2022-2023
 
-I have discovered an [Advent Calendar for coders](https://adventofcode.com/2022), where every day from 1st to 25th of December they give you new challenge from 2 parts. This is super fun and a great chance to improve skills in coding, algorithms and... optimization.
+I have discovered an [Advent Calendar for coders](https://adventofcode.com/), where every day from 1st to 25th of December they give you new challenge from 2 parts. This is super fun and a great chance to improve skills in coding, algorithms and... optimization.
 
 My progress by the end of Dec 25th:
 
+2022: [GitHub repo](https://github.com/madz42/advent2022)
+
 ![Advent of Code 2022](http://paranoidreptiloid.com/img/aoc2022.png#2)
 
-My [GitHub repo](https://github.com/madz42/advent2022) with solutions. Some of them might be still not uploaded, it's because I need to make them look not so ugly first :D
+2023: [GitHub repo](https://github.com/madz42/advent2023)
+
+![Advent of Code 2023](http://paranoidreptiloid.com/img/aoc2023.png)

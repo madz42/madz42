@@ -48,7 +48,6 @@ They can also Share Link to Field layout and Export to SVG or JPG.
 ![HTML badge](https://img.shields.io/badge/HTML-badge?color=444&logo=html5&style=flat-square&logoColor=orange)
 ![CSS badge](https://img.shields.io/badge/CSS-badge?color=444&logo=css3&style=flat-square&logoColor=blue)
 ![SVG badge](https://img.shields.io/badge/SVG-badge?color=444&logo=svg&style=flat-square)
-![SVG badge](https://img.shields.io/badge/SVG-badge?color=444&logo=svg&style=flat-square)
 
 [BACKEND](https://github.com/madz42/pbevents-back)
 

@@ -18,6 +18,7 @@ My name is Simon and I am a Full Stack JS Developer. I have finished [Codaisseur
 ![NodeJS badge](https://img.shields.io/badge/Node.JS-badge?color=339933&logo=nodedotjs&style=for-the-badge&logoColor=white)
 ![Express badge](https://img.shields.io/badge/Express-badge?color=000&logo=express&style=for-the-badge&logoColor=white)
 ![Axios badge](https://img.shields.io/badge/Axios-badge?color=5A29E4&logo=axios&style=for-the-badge&logoColor=white)
+![Puppeteer badge](https://img.shields.io/badge/Puppeteer-badge?color=40B5A4&logo=puppeteer&style=for-the-badge&logoColor=white)
 
 ![Git badge](https://img.shields.io/badge/Git-badge?color=F05032&logo=git&style=for-the-badge&logoColor=white)
 ![GitHub badge](https://img.shields.io/badge/GitHub-badge?color=181717&logo=github&style=for-the-badge&logoColor=white)

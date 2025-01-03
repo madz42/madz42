@@ -65,7 +65,7 @@ Screenshots: [Plan](http://paranoidreptiloid.com/img/pic4.png) - [Build](http://
 
 ## Fun
 
-### Advent of Code 2022-2023
+### Advent of Code 2022-2024
 
 I have discovered an [Advent Calendar for coders](https://adventofcode.com/), where every day from 1st to 25th of December they give you new challenge from 2 parts. This is super fun and a great chance to improve skills in coding, algorithms and... optimization.
 
@@ -78,3 +78,7 @@ My progress by the end of Dec 25th:
 2023: [GitHub repo](https://github.com/madz42/advent2023)
 
 ![Advent of Code 2023](http://paranoidreptiloid.com/img/aoc2023.png)
+
+2024: [GitHub repo](https://github.com/madz42/advent2024)
+
+![Advent of Code 2024](http://paranoidreptiloid.com/img/aoc2024.png)

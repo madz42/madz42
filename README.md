@@ -59,9 +59,9 @@ They can also Share Link to Field layout and Export to SVG or JPG.
 ![PostgreSQL badge](https://img.shields.io/badge/PostgreSQL-badge?color=444&logo=postgresql&style=flat-square)
 ![SVG badge](https://img.shields.io/badge/SVG-badge?color=444&logo=svg&style=flat-square)
 
-Screenshots: [Plan](http://paranoidreptiloid.com/img/pic4.png) - [Build](http://paranoidreptiloid.com/img/pic3.png) - [Browse](http://paranoidreptiloid.com/img/pic1.png) - [Share](http://paranoidreptiloid.com/img/pic5.png)
+Screenshots: [Plan](https://www.dropbox.com/scl/fi/ztf2djnp4g3x8o3jo55t2/pic4.png?rlkey=lui4xfertggu0rqhyfvbpx60x&st=8xyki1m3&raw=1) - [Build](https://www.dropbox.com/scl/fi/7zph6cr3026icxupl3b14/pic3.png?rlkey=84uu9w5foapxabhiupihhtbps&st=9gbsrpk7&raw=1) - [Browse](https://www.dropbox.com/scl/fi/p9zvscd8myt4q2f74bcr6/pic1.png?rlkey=qm2dr9r6kth6pexk09ghk2rnc&st=6dnhjw85&raw=1) - [Share](https://www.dropbox.com/scl/fi/fjr4oestn5x56pvbeploh/pic5.png?rlkey=jpawkmqbi1slhn1k2dhqr9jcr&st=mw44e8la&raw=1)
 
-![Raycasting Demo](http://paranoidreptiloid.com/img/pew_animate.gif)
+![Raycasting Demo](https://www.dropbox.com/scl/fi/lsq7upfq8nsi0bbf0nvkc/pew_animate.gif?rlkey=xfi53p1nlrtmh9j3flu7j2slf&st=y47pn6or&raw=1)
 
 ## Fun
 
@@ -73,12 +73,12 @@ My progress by the end of Dec 25th:
 
 2022: [GitHub repo](https://github.com/madz42/advent2022)
 
-![Advent of Code 2022](http://paranoidreptiloid.com/img/aoc2022.png#2)
+![Advent of Code 2022](https://www.dropbox.com/scl/fi/4a3r6oycfpuypxj7cifib/aoc2022.png?rlkey=gphxc509hd2qklsydkc8f0x6g&st=y5fijnng&raw=1)
 
 2023: [GitHub repo](https://github.com/madz42/advent2023)
 
-![Advent of Code 2023](http://paranoidreptiloid.com/img/aoc2023.png)
+![Advent of Code 2023](https://www.dropbox.com/scl/fi/wi7ijsuu8j4pqf0p0lu38/aoc2023.png?rlkey=tyb2vbtgkj1ue5dh5id03m9l4&st=r1qllnh2&raw=1)
 
 2024: [GitHub repo](https://github.com/madz42/advent2024)
 
-![Advent of Code 2024](http://paranoidreptiloid.com/img/aoc2024.png)
+![Advent of Code 2024](https://www.dropbox.com/scl/fi/3t3eb51m6in26i4n2txm0/aoc2024.png?rlkey=exs1z37db52dp6hefxsv414z5&st=408ylf0s&raw=1)
